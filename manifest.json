@@ -2,7 +2,7 @@
     "name": "DaCapo.",
     "short_name": "DaCapo",
     "description": "Une app pour les musiciens classiques pour gérer leur répertoire et leurs notes.",
-    "start_url": "/dacapoappoff/index.html",
+    "start_url": "/dacapoappoff/login.html",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#000000",
